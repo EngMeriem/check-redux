@@ -1,3 +1,23 @@
+Objective
+-------------------
+
+In this checkpoint, we are going to use what we have learned previously to create a ToDo Application while using Redux to manage the global state.
+
+
+Instructions
+------------------------
+  •	Create  the following component:
+      o	Addtask
+      o	ListTask
+      o	Task
+  •	Every task should have the following attributes:I d, description, isDone
+  •	The user should be:
+      o	Able to add a newTodo
+      o	Filter the tasks by (done/not)
+      o	Edit a task
+
+
+------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
